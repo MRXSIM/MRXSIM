@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # MRX
@@ -25,9 +24,7 @@ My work focuses on building reliable, scalable, and maintainable software that p
 ## Core Technologies
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,vscode" />
-
 </p>
 
 - **Languages:** Python, SQL, JavaScript
@@ -79,4 +76,3 @@ https://github.com/MRXSIM/MRXSIM-Universal-SMS-Automation
 **© MRXSIM · Secure Infrastructure**
 
 </div>
-```
